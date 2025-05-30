@@ -1,3 +1,33 @@
+Package: crackpkcs12
+Name: crackpkcs12
+Description: A multithreaded program to crack PKCS#12 files (p12 and pfx extensions) by Aestu
+Homepage: https://github.com/crackpkcs12/crackpkcs12
+Architecture: iphoneos-arm
+Version: 0.2.11
+Section: Utilities
+Author: Aestu
+Maintainer: The-SamminAter
+Depends: libssl1.0 | libssl1.1.1 | libssl3
+Filename: debs/crackpkcs12_0.2.11_iphoneos-arm.deb
+MD5sum: e9c4050ee50ae652aa22645912fb8136
+SHA1: 16f80459ac89574c9edb1c698871b10f9e223cd6
+SHA256: 00cd5c5e5b5cace31693a9a87bc3f30626403257c0ea127b057e77ac605fe0ea
+
+Package: crackpkcs12
+Name: crackpkcs12
+Description: A multithreaded program to crack PKCS#12 files (p12 and pfx extensions) by Aestu
+Homepage: https://github.com/crackpkcs12/crackpkcs12
+Architecture: iphoneos-arm64
+Version: 0.2.11
+Section: Utilities
+Author: Aestu
+Maintainer: The-SamminAter
+Depends: libssl1.0 | libssl1.1.1 | libssl3
+Filename: debs/crackpkcs12_0.2.11_iphoneos-arm64.deb
+MD5sum: 3cdeac4e4371b2a00183e52bfe744e74
+SHA1: 2ffb1ebcc09b3ad0cf8e786c31bfbe18e964a72a
+SHA256: db2fca97b98d5059207149c03af79b0fa417d1d39689f8b78f8fa6ec04f01179
+
 Package: libkrw0-plugin
 Architecture: iphoneos-arm64
 Version: 0.1
