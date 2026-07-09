@@ -1,8 +1,8 @@
-Origin: The-SamminAter's repo
-Label: The-SamminAter's repo
+Origin: bezau1's repo
+Label: bezau1's repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: The-SamminAter's repo
+Description: bezau1's repo
