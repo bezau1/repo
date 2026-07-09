@@ -708,9 +708,9 @@ Description: Go programming language compiler, linker, compiled stdlib
 Package: com.leftyfl1p.carplay
 Name: Carbridge
 Description: Open any app in CarPlay!
-Homepage: https://github.com/crackpkcs12/crackpkcs12
-Architecture: iphoneos-arm
-Version: 0.2.11
+Homepage: https://carbridge.app
+Architecture: iphoneos-arm64
+Version: 1.0
 Section: Utilities
 Author: leftyfl1p
 Maintainer: leftyfl1p
